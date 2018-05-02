@@ -40,10 +40,6 @@ prose:
         field:
           element: text
           label: Title
-      - name: published
-        field:
-          element: hidden
-          value: true
     _data: []
     _includes: []
     _layouts: []
