@@ -23,24 +23,3 @@ prose:
     - /assets/js
   site: "https://staging.iccu.co.uk"
   media: "assets/img"
-  metadata:
-    "":
-      - name: layout
-        field:
-          element: hidden
-          value: page
-      - name: permalink
-        field:
-          element: text
-          label: Permalink location
-          help: "The location of the page - iccu.co.uk/location/. YOU MUST INCLUDE FORWARD SLASHES ON EITHER SIDE!"
-          placeholder: "e.g. /something/ - YOU MUST INCLUDE FORWARD SLASHES!"
-          type: text
-      - name: title
-        field:
-          element: text
-          label: Title
-    _data: []
-    _includes: []
-    _layouts: []
-    assets: []
