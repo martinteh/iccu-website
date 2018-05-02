@@ -73,6 +73,10 @@ prose:
   site: "https://staging.iccu.co.uk"
   media: "assets/img"
   metadata:
+    _data: []
+    _includes: []
+    _layouts: []
+    assets: []
     "":
       - name: layout
         field:
