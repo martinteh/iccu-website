@@ -22,19 +22,14 @@
 - position: Secretary
   name: Lydia Joshua
   year-course: 2nd year Biology
-  bio: Hi! I’m Lydia, a second year biologist. As secretary, my role involves booking rooms to meet in, admin and writing the weekly email. I look forward to keeping you all in the loop with the happenings of CU!
+  image: committee/lydia.jpg
+  bio: Hi! I’m Lydia, a second year biologist and evil mastermind behind the cu weekly emails...hehe. I help book rooms for all the fabulous CU events we run and love meeting new people - so please come along and say hi at one of our weekly events!
 
 - position: Evangelism Secretary
   name: Buneme Kyakilika
   year-course: 2nd year Computing
   bio: Hi, I'm Buneme. As Evangelism Secretary, my role mainly revolves around organising our weekly <a href="https://facebook.com/iccu.skeptical">Skeptical</a>, where we have a speaker who answers the sort of questions that people who are looking into Christianity may be asking. I'm looking forward to meeting you all in October!
   image: committee/buneme.jpg
-
-- position: International Coordinator
-  name: Leo Huang
-  image: committee/leo.jpg
-  year-course: 2nd year Medicine
-  bio: "Hi there! My name's Leo, and I'm a future doctor in my second year at Imperial. As International Coordinator, my role involves helping bridge the gap between international and home students, showing that God's word is something which is available to people of all nations and backgrounds. Feel free to contact me if you have any ideas on how to improve the CU's international outreach this coming year!"
 
 - position: HUB Coordinator
   name: Esther Wong
