@@ -32,16 +32,16 @@
                 if (specialEventNamesToIgnore.includes(eventName)) {
                     return;
                 }
-                $("#upcoming-events").append(
-                    $("<div>").attr("class", "event-container")
-                        .append($("<div>").attr("class", "event-head").append(
-                            $("<div>")
-                                .append($("<span>").attr("class", "event-title").append(eventName))
-                                .append($("<br />"))
-                                .append($("<span>").attr("class", "event-location").append(eventLocation)))
-                            .append($("<div>").append($("<span>").attr("class", "event-date-times").append(eventDateTimes))))
-                        .append($("<div>").attr("class", "event-body")
-                            .append("<p>").attr("class", "event-description").append(eventDescription)))
+
+                var eventNameElem = $("<span>").attr("class", "event-title").append(eventName);
+                var lineBreakElem = $("<br />");
+                var eventLocationElem = $("<span>").attr("class", "event-location").append(eventLocation);
+                var eventDateTimesInnerElem = $("<span>").attr("class", "event-date-times").append(eventDateTimes);
+                var eventDateTimesElem = $("<div>").append(eventDateTimesInnerElem);
+                var eventBodyElem = $("<div>").attr("class", "event-body").append("<p>").attr("class", "event-description").append(eventDescription);
+                var eventHeadInnerElem = $("<div>").append(eventNameElem).append(lineBreakElem).append(eventLocationElem);
+                var eventHeadElem = $("<div>").attr("class", "event-head").append(eventHeadInnerElem).append(eventDateTimesElem);
+                $("#upcoming-events").append($("<div>").attr("class", "event-container").append(eventHeadElem).append(eventBodyElem));
             });
         });    
     });
