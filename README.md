@@ -65,6 +65,12 @@ Now refresh [prose.io](https://prose.io) and voila! `iccu-website` has appeared!
 - **change the links in the main menu?** Go to `_data/navbar.yml` and make changes there.
 - **add a new page?** Click *New File* in the home folder, give it a title, then click the Meta Data button (third one down on the right) and follow the instructions. Then, you can start writing in Markdown.
 - **change the links at the bottom of the page in the middle (about us etc.)?** Go to `_data/footer_links.yml` and make changes there.
+- **add a link to a survey or something like iccu.co.uk/survey?** Add `survey.md` in the _redirects folder and in it, put this:
+  ```
+  ---
+  newUrl: https://google.com/really_long_google_form_url
+  ---
+  ```
 
 After you've made changes, click the save button on the right. It will then tell you to describe your changes. Write something clear and concise about what you did - good practice is to begin with a verb, for example:
 ```
