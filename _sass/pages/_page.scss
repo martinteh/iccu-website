@@ -27,7 +27,7 @@ $christmas-special-font: 'Lemon Tuesday', cursive;
   }
 
   @include breakpoint($lg) {
-    min-height: 52rem;
+    min-height: 58rem;
     background-image: url(christmas-bg/top-bg.png), url(christmas-bg/bottom-bg.png);
     background-position: 0 0, 0 bottom;
     background-size: 250px, 250px;
@@ -51,7 +51,7 @@ $christmas-special-font: 'Lemon Tuesday', cursive;
 
   @include breakpoint($lg) {
     font-size: 4rem;
-    padding-top: 150px;
+    padding-top: 80px;
   }
 }
 
@@ -131,9 +131,6 @@ button.christmas__button {
   text-transform: none;
   letter-spacing: 0;
   font-size: 1.3rem;
-  @include breakpoint($lg) {
-    margin-bottom: 50px;
-  }
 }
 
 .christmas__wrap {
