@@ -1,3 +1,158 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+@import url('https://fonts.googleapis.com/css?family=Give+You+Glory');
+@font-face {
+  font-family: 'Lemon Tuesday';
+  src: url('lemon-tuesday.otf') format('opentype');
+}
+
+$christmas-background: rgb(48, 48, 48);
+$christmas-gold: rgb(209, 160, 76);
+$christmas-gold-darker: rgb(199, 150, 68);
+$christmas-primary-font: 'Berkshire Swash', cursive;
+$christmas-secondary-font: 'Give You Glory', cursive;
+$christmas-special-font: 'Lemon Tuesday', cursive;
+
+.christmas {
+  margin: 0 auto 0;
+  min-height: 40rem;
+  width: 100%;
+  position: relative;
+  background-color: $christmas-background;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+
+  @include breakpoint($md) {
+    min-height: 43rem;
+  }
+
+  @include breakpoint($lg) {
+    min-height: 52rem;
+    background-image: url(christmas-bg/top-bg.png), url(christmas-bg/bottom-bg.png);
+    background-position: 0 0, 0 bottom;
+    background-size: 250px, 250px;
+    background-repeat: repeat-x, repeat-x;
+    padding: 170px 0 100px 0;
+  }
+}
+
+.christmas__title {
+  color: $christmas-gold;
+  font-family: $christmas-primary-font;
+  font-size: 2rem;
+  text-shadow: -1.5px 0 white;
+
+  @include breakpoint($sm) {
+    font-size: 2.5rem;
+  }
+
+  @include breakpoint($md) {
+    font-size: 3rem;
+  }
+
+  @include breakpoint($lg) {
+    font-size: 4rem;
+  }
+}
+
+.christmas__subtitle {
+  color: white;
+  font-family: $christmas-secondary-font;
+  font-size: 1.1rem;
+
+  @include breakpoint($sm) {
+    font-size: 1.3rem;
+  }
+
+  @include breakpoint($md) {
+    font-size: 1.5rem;
+  }
+
+  @include breakpoint($lg) {
+    font-size: 1.7rem;
+  }
+}
+
+.christmas__fancy {
+  font-family: $christmas-special-font;
+  font-size: 1.4rem;
+
+  @include breakpoint($sm) {
+    font-size: 1.8rem;
+  }
+
+  @include breakpoint($md) {
+    font-size: 2.3rem;
+  }
+
+  @include breakpoint($lg) {
+    font-size: 2.5rem;
+  }
+}
+
+.christmas__description {
+  color: white;
+  font-family: $christmas-primary-font;
+  padding: 16px 0;
+  font-size: 1rem;
+
+  @include breakpoint($md) {
+    padding: 22px 0;
+  }
+
+  @include breakpoint($md) {
+    font-size: 1.2rem;
+  }
+
+  @include breakpoint($lg) {
+    font-size: 1.3rem;
+    padding: 40px 0;
+  }
+}
+
+.christmas__description-wrapper {
+  background-color: $christmas-gold-darker;
+  padding: 0 12px;
+  border-radius: 10px;
+  width: 100%;
+
+  @include breakpoint($md) {
+    padding: 0 16px;
+  }
+
+  @include breakpoint($lg) {
+    padding: 0 28px;
+  }
+}
+
+button.christmas__button {
+  background-color: $christmas-gold-darker;
+  font-family: $christmas-primary-font;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 1.3rem;
+}
+
+.christmas__wrap {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+  width: 100%;
+  max-width: 90%;
+  z-index: 1;
+
+  @include breakpoint($md) {
+    max-width: 40em;
+  }
+
+  @include breakpoint($lg) {
+    max-width: 60em;
+  }
+}
+
 .hero {
   margin: 3.75rem auto 0;
   min-height: 20rem;
