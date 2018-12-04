@@ -23,6 +23,7 @@ Thumbs.db
 ########
 .sass-cache/
 *.css.map
+assets/css/
 
 # Jekyll #
 ##########
