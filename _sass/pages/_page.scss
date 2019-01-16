@@ -1,3 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai');
+
+$eventsweek19-background: rgb(64, 64, 96);
+$eventsweek19-blue-light: rgb(107, 199, 188);
+$eventsweek19-body-font: 'Arima Madurai';
+
+.eventsweek19 {
+  margin: 3.75rem auto 0;
+  min-height: 20rem;
+  width: 100%;
+  position: relative;
+  background-color: $eventsweek19-background;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: cover;
+  overflow: hidden;
+  vertical-align: middle;
+
+  @include breakpoint($md) {
+    min-height: 24rem;
+  }
+
+  @include breakpoint($lg) {
+    margin: 0 auto;
+    height: 36em;
+  }
+}
+
+button.eventsweek19__button {
+  background-color: $eventsweek19-blue-light;
+  font-family: $eventsweek19-body-font;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 1.3rem;
+  color: #000000;
+  margin-top: 32px;
+}
+
+.eventsweek19__wrap {
+  position: relative;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  top: 50%;
+  left: 50%;
+  bottom: 40%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+  width: 100%;
+  max-width: 90%;
+  z-index: 1;
+
+  @include breakpoint($md) {
+    max-width: 40em;
+  }
+
+  @include breakpoint($lg) {
+    max-width: 60em;
+  }
+}
+
 .hero {
   margin: 3.75rem auto 0;
   min-height: 20rem;

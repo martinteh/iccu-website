@@ -1,0 +1,45 @@
+## Events week events
+
+# Format:
+# title:            event title
+# description:      a slightly meatier dexcription of the event
+# day:              day of the week
+# start_time:       the time it starts, obviosuly USE 24 HOUR TIME IN QUOTATION MARKS!
+# end_time:         the time (we say) it ends
+# location:         the venue
+# link: (OPTIONAL)  a link to a page with more info e.g. a Facebook page. DO INCLUDE http://www., e.g. http://iccu.co.uk
+
+- title: A Myth? How do I know he's not a work of fiction?
+  description: Jesus was recorded in the Bible, which is a collection of scriptures written around 2000 years ago. How can we trust such an old book?. We’ll be discussing the reliability of the Bible and why it’s accurate and relevant for us today.
+  day: Monday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: Union Dining Hall
+
+- title: An optional extra? Why can't we fix the world without him?
+  description: Why do we need Jesus if we think we're doing just fine without him? Find out why he is necessary.
+  day: Tuesday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: Union Meeting Rooms 1&2
+
+- title: A guilt trip? Will following Jesus just make me feel bad?
+  description: Is Jesus just here make unreasonable requests of us and our time?
+  day: Wednesday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: Union Concert Hall
+
+- title: "Who is Jesus for me: stories from Christian students"
+  description: Two Christians will be sharing about who Jesus means to them. Any questions from the floor are then invited to a panel of four Christians.
+  day: Thursday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: Union Concert Hall
+
+- title: A deluded martyr? What was the point of him getting himself killed?
+  description: Jesus died on the cross, but was there a reason for this? We'll be talking about why his death was significant for all of us.
+  day: Friday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: Union Concert Hall
