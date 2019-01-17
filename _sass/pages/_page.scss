@@ -6,7 +6,7 @@ $eventsweek19-blue-light: rgb(107, 199, 188);
 $eventsweek19-body-font: 'Arima Madurai';
 
 .eventsweek19 {
-  margin: 3.75rem auto 0;
+  margin: 0;
   min-height: 20rem;
   width: 100%;
   position: relative;
@@ -16,15 +16,6 @@ $eventsweek19-body-font: 'Arima Madurai';
   background-size: cover;
   overflow: hidden;
   vertical-align: middle;
-
-  @include breakpoint($md) {
-    min-height: 24rem;
-  }
-
-  @include breakpoint($lg) {
-    margin: 0 auto;
-    height: 36em;
-  }
 }
 
 button.eventsweek19__button {
@@ -39,8 +30,6 @@ button.eventsweek19__button {
 
 .eventsweek19__wrap {
   position: relative;
-  padding-top: 70px;
-  padding-bottom: 70px;
   top: 50%;
   left: 50%;
   bottom: 40%;
@@ -48,15 +37,19 @@ button.eventsweek19__button {
   text-align: center;
   color: #ffffff;
   width: 100%;
-  max-width: 90%;
   z-index: 1;
 
+  @include breakpoint($sm) {
+    padding: 20px 0;
+  }
+
   @include breakpoint($md) {
-    max-width: 40em;
+    max-width: 100em;
   }
 
   @include breakpoint($lg) {
-    max-width: 60em;
+    padding: 40px 0;
+    max-width: 70em;
   }
 }
 
