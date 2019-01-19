@@ -2,5 +2,5 @@
 
 set -e
 
-gem install bundler
+gem install -v 1.12 bundler --no-rdoc --no-ri
 bundle install
