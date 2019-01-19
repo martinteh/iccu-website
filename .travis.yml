@@ -15,7 +15,6 @@ before_install:
 - eval `ssh-agent`
 - chmod 600 deploy_rsa
 - ssh-add deploy_rsa
-- gem install -v 1.12 bundler --no-rdoc --no-ri
 
 install:
 - script/bootstrap
