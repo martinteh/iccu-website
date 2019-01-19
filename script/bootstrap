@@ -3,3 +3,4 @@
 set -e
 
 gem install -v 1.12 bundler --no-document
+bundle install
