@@ -8,43 +8,43 @@
 # image: committee/            the name of the image file in assets/img
 
 - position: President
-  name: Jonny Tilford
-  year-course: 4th year Aeronautical Engineering
-  bio: Hi, I’m Jonny, a fourth year Aeronautical Engineer from the lovely town of Warwick. As the President of ICCU, I will be leading the committee to ensure that the whole of the Christian Union is working towards our goal of giving every student the opportunity to hear and respond to the Gospel of Jesus. In doing that, I hope that we can equip you to share the Gospel and give you great opportunities to do that during your time at University.
-  image: committee/jonny.jpg
+  name: Sam Lashwood
+  year-course: 4th year Physics
+  bio: Hey, I'm Sam, a 4th year physics student who gets excited about kayaking. I also get very excited about Jesus and telling the good folks at Imperial about how great He is. Thinking and learning how to better witness to our mates on campus this year is gonna be great! Who knows what God will do?!
+  image: committee/sam.jpg
 
 - position: Vice President and Treasurer
-  name: Helen Rimell
-  year-course: 3rd year Medicine
-  bio: Hi, I’m Helen, and I’m a 3rd year GP-wannabe. I’m excited to meet you all and to spend the year getting trained in evangelism and sharing the gospel on campus with you. As VP/Treasurer, I’ll be balancing the books, looking after the committee with prescriptions of coffee/cake and putting together a Weekend Away filled with bible-teaching, baked goods and our usual <s>mixed</s>top-quality banter.
-  image: committee/helen.jpg
-
-- position: Secretary
-  name: Lydia Joshua
-  year-course: 2nd year Biology
-  image: committee/lydia.jpg
-  bio: Hi! I’m Lydia, a second year biologist and evil mastermind behind the cu weekly emails...hehe. I help book rooms for all the fabulous CU events we run and love meeting new people - so please come along and say hi at one of our weekly events!
-
-- position: Evangelism Secretary
-  name: Buneme Kyakilika
-  year-course: 2nd year Computing
-  bio: Hi, I'm Buneme. As Evangelism Secretary, my role mainly revolves around organising our weekly <a href="https://facebook.com/iccu.skeptical">Skeptical</a>, where we have a speaker who answers the sort of questions that people who are looking into Christianity may be asking. I'm looking forward to meeting you all in October!
-  image: committee/buneme.jpg
-
-- position: HUB Coordinator
   name: Esther Wong
-  year-course: 2nd year Computing
-  bio: Hi! I'm Esther, a second year computing student from Hong Kong. As a CU, we meet every Thursday for HUB to encourage and equip each other to share the Gospel with people around us. I look forward to help organise these sessions and to meet you all!
+  year-course: 3rd year Computing
+  bio: Hi, I’m Esther! As Vice President, I’ll be helping the CU manage their finances and organise our yearly Weekend Away, which includes great Bible teaching, fun activities, and other exciting surprises. I’m really looking forward to meeting you guys!
   image: committee/esther.jpg
 
-- position: Prayer Secretary
-  name: Katie Rhodes
-  year-course: 4th year Geology
-  bio: I'm Katie, a dinosaur and bacon enthusiast from Southampton. I'm the CU breakfast provider and I love getting our CU family together for prayer times. We meet up to pray on Friday mornings and I'm stoked to see all your faces there.<br /><br /><em>"There has never been a sadness that can't be cured by breakfast food" ~ Ron Swanson.</em>
-  image: committee/katie.jpg
+- position: Secretary
+  name: Yvonne Winterborn
+  year-course: 2nd year Biochemistry
+  image: committee/yvonne.jpg
+  bio: Hello there! I’m Yvonne, a second year molecule-lover and your cu secretary this year! I send out the weekly emails, which you should definitely read, not just because of my brilliant use of emojis, but also because they contain all the info you’ll need!! I can’t wait to meet you all :))
 
-- position: Events Coordinator
-  name: Franz Tapia Chaca
-  image: committee/franz.jpg
-  year-course: 4th year Biomedical Engineering
-  bio: "Hi, I'm Franz and as Events Coordinator, I have the wonderful opportunity to serve by organising our annual Christmas Carols and to support other events by helping flyering, organisation and planning! I'm excited for the new year to run these events to make Christ known at Imperial. I was also born in Peru and then moved to Sint Maarten, an island in the Caribbean!"
+- position: Evangelism Secretary
+  name: Jacob Knight
+  year-course: 2nd year GeoPhysics
+  bio: Hello, I am organising the CU’s Evangelism and Outreach (mainly Skeptical). I am a second year Geophysicist who enjoys running and playing squash and saxophone. I look forward to sharing God’s amazing Gospel with those on Campus this year.
+  image: committee/jacob.jpg
+
+- position: HUB Coordinator
+  name: Martin Teh
+  year-course: 2nd year Mechanical Engineering
+  bio: Hey! I'm Martin, I'll be your Central Meeting HUB Coordinator for this year. We all meet once weekly at HUB to be encouraged and to be equipped for going out into the world to tell mates about Jesus! I can't wait to see y'all! Also my powerpoint slides are super good, I swear 🙂
+  image: committee/martin.jpg
+
+- position: Prayer Secretary
+  name: Tom Brown
+  year-course: 2nd year Aeronautical Engineering
+  bio: Hey, my name's Tom and I am a second year Aeronautical Engineer. Somerset born and raised but no I'm not a farmer. As prayer secretary, my role is to help organise prayer meetings and prayer triplets. I strongly believe prayer and breakfast is the prefect combination so make sure you come along to the chaplaincy at 8am on a Friday to find out why.
+  image: committee/tom.jpg
+
+- position: Publicity Coordinator
+  name: Matthew Last
+  image: committee/matthew.jpg
+  year-course: 4th year Design Engineering
+  bio: Hello, I'm Matthew, a 4th year Design Engineering student from Cumbria in the pleasant north of England. In the role of Publicity Coordinator, I help the CU advertise the events they do. I'll often be organising posters, flyers and social-media posts so that the word of God can be spread across campus. I hope to see you all soon.
