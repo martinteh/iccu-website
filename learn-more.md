@@ -5,6 +5,7 @@ title: Got questions?
 ---
 
 <script src="/assets/js/clipboard.min.js"></script>
+<script src="https://apis.google.com/js/platform.js"></script>
 <script>new ClipboardJS('.copy-button');</script>
 <center>
   <h2 id="email-address">cu@imperial.ac.uk</h2>
@@ -48,4 +49,4 @@ Skeptical is a weekly event we host on Friday lunchtimes at 12:00 where we discu
 
 Check out some previous Skeptical talks here on our YouTube channel:
 
-<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=ImperialCU" width="100%" height="350px"></iframe>
+<div class="g-ytsubscribe" data-channelid="UCMYJYwfWKZVgDYwJAq0i5AQ" data-layout="full" data-count="default"></div>
