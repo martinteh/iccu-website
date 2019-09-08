@@ -26,11 +26,11 @@ Here are a few links to help you learn about the Christian faith. Do have a read
 
 ***
 
-### [Uncover John](http://www.uncover.org.uk/john)
+### [Uncover Mark](http://www.uncover.org.uk/mark)
 
-A walkthrough of the Gospel of John, exploring the claims it makes about the life of Jesus Christ, their historical authenticity and implications. See for yourself and make up your mind!
+A walkthrough of the Gospel of Mark, exploring the claims it makes about the life of Jesus Christ, their historical authenticity and implications. See for yourself and make up your mind!
 
-We have lots of hard copies of Uncover John and also organise a relaxed lunchtime discussion about Uncover called Curious Café at 13:00 on Wednesdays. Email us if you're interested in either!
+We have lots of hard copies of Uncover Mark and also organise a relaxed lunchtime discussion about Uncover called Curious Café at 13:00 on Wednesdays. Contact us if you're interested in either, we would love you to join!
 
 ***
 
