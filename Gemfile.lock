@@ -70,9 +70,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (2.0.1)
+  bundler (~> 1.12)
   jekyll-sleek!
   rake (~> 10.0)
 
 BUNDLED WITH
-   1.16.2
+   1.17.3
