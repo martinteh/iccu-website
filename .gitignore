@@ -3,7 +3,6 @@
 .sass-cache
 _site
 _img
-Gemfile.lock
 .idea/*
 npm-debug.log
 *.js.map
