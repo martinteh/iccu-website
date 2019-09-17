@@ -146,3 +146,23 @@ iccu-website
 ├── index.md                   # sample home page (blog page)
 └── package.json               # gulp tasks
 ```
+
+## Changing the deploy script
+
+Currently, we deploy the website by SSH-ing into the union servers with one of our student accounts. When this student graduates, the deployments will fail as they will no longer have an Imperial account. 
+
+### How to fix this
+
+1. Request SSH access to the Imperial Gateway [here](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/remote-access/method/set-up-rdg/ssh-gateway/)
+2. Request open access to the CU website directory [here](https://union.ic.ac.uk/sysadmin/)
+3. Request SSH access to the dougal union servers by emailing the union system admins. 
+4. Execute the following commands on the terminal
+
+```shell
+ssh cunion@sshwgw.ic.ac.uk 
+ssh-copy-id -i ~/.ssh key <YOUR_SHORTCODE>@dougal.union.ic.ac.uk
+```
+
+The first command will require cunion's password. If the second command fails with an error saying that ‘key’ does not exist, go to the directory `~/.ssh` and add two files. Add one named `key` which stores the private key, and another named `key.pub` which stores the public key. Then, try executing the command again.
+
+5. Lastly, change `./scripts/deploy` to use the new student's shortcode. 
