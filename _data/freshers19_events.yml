@@ -1,0 +1,45 @@
+## Fresher's week events
+
+# Format:
+# title:            event title
+# description:      a slightly meatier dexcription of the event
+# day:              day of the week
+# start_time:       the time it starts, obviosuly USE 24 HOUR TIME IN QUOTATION MARKS!
+# end_time:         the time (we say) it ends
+# location:         the venue
+# link: (OPTIONAL)  a link to a page with more info e.g. a Facebook page. DO INCLUDE http://www., e.g. http://iccu.co.uk
+
+- title: Freshers' Fair Stall
+  description: We will be at the Imperial College's Freshers' Fair. Come and find out more about what we do as a Christian Union, and ask us any questions you may have. There will be some freebies too!
+  day: Tuesday
+  start_time: "10:00"
+  end_time: "16:00"
+  location: TBC
+
+- title: Afternoon Tea
+  description: Come along for a free afternoon tea with scones, tea and more. Someone from the Christian Union will also be sharing who Jesus means to them.
+  day: Wednesday
+  start_time: "15:00"
+  end_time: "16:00"
+  location: TBC
+
+- title: HUB
+  description: We meet together as a Christian Union every week to sing, pray, hear the Bible read and taught to us and encourage each other. It's a great place to hear and learn more about the message of Jesus, which we believe in. There will be free pizza for newcomers!
+  day: Thursday
+  start_time: "18:00"
+  end_time: "19:30"
+  location: TBC
+
+- title: Skeptical
+  description: 15-minute lunchtime talk with free food and Q&A to discuss big questions about life, God and Christianity.
+  day: Friday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: TBC
+
+- title: Church search picnic
+  description: Looking for a church? Join us on our Church Search Picnic! We meet for small bites, and afterwards, several groups will head off together to different churches. We will be doing this on 29/09, 13/10, and 20/10 as well, but without the picnic.
+  day: Sunday 6th October
+  start_time: "16:00"
+  end_time: "17:30"
+  location: Queen's Lawn
