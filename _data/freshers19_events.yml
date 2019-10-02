@@ -28,18 +28,25 @@
   day: Thursday
   start_time: "18:00"
   end_time: "19:30"
-  location: TBC
+  location: RSM G01
+
+- title: Prayer breakfast
+  description: We pray for each other and for the CU. There will be plenty of pastries, hot drinks etc. The chaplaincy is to the right of SAF, and we'll be out in orange jumpers so hopefully you can find it!
+  day: Friday
+  start_time: "8:00"
+  end_time: "8:45"
+  location: Forest Room (4th Floor Chaplaincy)
 
 - title: Skeptical
   description: 15-minute lunchtime talk with free food and Q&A to discuss big questions about life, God and Christianity.
   day: Friday
   start_time: "12:00"
   end_time: "13:00"
-  location: TBC
+  location: Union Activity Space 1
 
 - title: Church search picnic
   description: Looking for a church? Join us on our Church Search Picnic! We meet for small bites, and afterwards, several groups will head off together to different churches. We will be doing this on 29/09, 13/10, and 20/10 as well, but without the picnic.
   day: Sunday 6th October
   start_time: "16:00"
   end_time: "17:30"
-  location: Queen's Lawn
+  location: Queen's Tower Lions
