@@ -1,0 +1,10 @@
+## Events week events
+
+# Format:
+# title:            event title
+# description:      a slightly meatier dexcription of the event
+# day:              day of the week
+# start_time:       the time it starts, obviosuly USE 24 HOUR TIME IN QUOTATION MARKS!
+# end_time:         the time (we say) it ends
+# location:         the venue
+# link: (OPTIONAL)  a link to a page with more info e.g. a Facebook page. DO INCLUDE http://www., e.g. http://iccu.co.uk
