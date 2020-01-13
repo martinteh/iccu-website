@@ -11,16 +11,56 @@ $eventsweek20-body-font: 'Over the Rainbow';
   background-size: cover;
   background-repeat: no-repeat;
   vertical-align: middle;
-  padding: 4rem;
+  padding: 1rem;
+
+  @include breakpoint($md) {
+    padding: 3rem;
+  }
+
+  @include breakpoint($lg) {
+    padding: 3rem;
+  }
+}
+
+.eventsweek_logo {
+  max-height: 10rem;
+
+  @include breakpoint($md) {
+    max-height: 20rem;
+  }
+
+  @include breakpoint($lg) {
+    max-height: 20rem;
+  }
+
 }
 
 .eventsweek_title {
   color: white;
+  font-size: 1rem;
+
+  @include breakpoint($md) {
+    font-size: 2em;
+  }
+
+  @include breakpoint($lg) {
+    font-size: 2em;
+  }
+
 }
 
 .eventsweek_date {
   color: white;
-  font-size: 3rem;
+  font-size: 1.4rem;
+
+  @include breakpoint($md) {
+    font-size: 3em;
+    line-height: 3rem;
+  }
+
+  @include breakpoint($lg) {
+    font-size: 3em;
+  }
 }
 
 button.eventsweek__button {
@@ -28,11 +68,19 @@ button.eventsweek__button {
   font-family: $eventsweek20-body-font;
   text-transform: none;
   letter-spacing: 0;
-  font-size: 1.3rem;
+  font-size: 1rem;
   outline: none;
   border: none;
   border: 0px;
   color: #000000;
+
+  @include breakpoint($md) {
+    font-size: 1.3rem;
+  }
+
+  @include breakpoint($lg) {
+    font-size: 1.3em;
+  }
 }
 
 button.banner__button {
