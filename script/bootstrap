@@ -1,6 +1,6 @@
 #!/bin/sh
 
+gem install bundler:1.17.3
 set -e
-
 gem install -v 1.12 bundler --no-document
 bundle install
