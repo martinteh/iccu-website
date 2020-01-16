@@ -8,3 +8,38 @@
 # end_time:         the time (we say) it ends
 # location:         the venue
 # link: (OPTIONAL)  a link to a page with more info e.g. a Facebook page. DO INCLUDE http://www., e.g. http://iccu.co.uk
+
+- title: Real Satisfaction
+  description: Come and find out what it means to find deep satisfaction through Christianity.
+  day: Monday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: TBC
+
+- title: Real Hope
+  description: The human spirit can not survive without hope. But what is real hope based on? Is it wishful thinking or something more real?
+  day: Tuesday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: TBC
+
+- title: Quiz a Christian
+  description: A few christians will be sharing their testimonies. There is also a chance to ask a panel any questions you may have about Christianity.
+  day: Wednesday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: TBC
+
+- title: Real Truth
+  description: Is there still such a thing as truth? Who or what should we trust?
+  day: Thursday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: TBC
+
+- title: Real Life
+  description: We are all alive but what does real life - life to the full - look like? Come and find out what kind of life Jesus has to offer us.
+  day: Monday
+  start_time: "12:00"
+  end_time: "13:00"
+  location: TBC
