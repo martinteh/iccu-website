@@ -14,32 +14,32 @@
   day: Monday
   start_time: "12:00"
   end_time: "13:00"
-  location: TBC
+  location: Union Meeting Room 1/2
 
 - title: Real Hope
   description: The human spirit can not survive without hope. But what is real hope based on? Is it wishful thinking or something more real?
   day: Tuesday
   start_time: "12:00"
   end_time: "13:00"
-  location: TBC
+  location: Union Meeting Room 1/2
 
 - title: Quiz a Christian
   description: A few christians will be sharing their testimonies. There is also a chance to ask a panel any questions you may have about Christianity.
   day: Wednesday
   start_time: "12:00"
   end_time: "13:00"
-  location: TBC
+  location: Union Concert Hall
 
 - title: Real Truth
   description: Is there still such a thing as truth? Who or what should we trust?
   day: Thursday
   start_time: "12:00"
   end_time: "13:00"
-  location: TBC
+  location: Union Concert Hall
 
 - title: Real Life
   description: We are all alive but what does real life - life to the full - look like? Come and find out what kind of life Jesus has to offer us.
   day: Friday
   start_time: "12:00"
   end_time: "13:00"
-  location: TBC
+  location: Union Concert Hall
