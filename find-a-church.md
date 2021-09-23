@@ -13,7 +13,7 @@ UCCF has also provided some great advice on deciding which church to go to
 
 [<button>Church-choosing advice from UCCF</button>](http://www.uccf.org.uk/news/the-big-church-search.htm)
 
-If you're struggling to find a church that you feel comfortable with, or that you feel matches your religious background, please get in touch and we will do all that we can to help you!
+If you're struggling to find a church that you feel comfortable with, or that you feel matches your religious background, please get in touch and we will do all that we can to help thee!
 
 [<button>Contact us</button>](/contact)
 
